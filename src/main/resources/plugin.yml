@@ -1,0 +1,6 @@
+name: OrbitTC
+version: '${project.version}'
+main: me.friedwingis.plugin.orbittc.OrbitTC
+api-version: '1.20'
+authors: [Fried]
+depend: [OrbitCore]
